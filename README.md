@@ -45,6 +45,12 @@ To run all Playwright tests on your machine:
 npx playwright test
 ```
 
+To run  specific tests on your machine:
+
+```bash
+npx playwright test --grep "@smoke"
+```
+
 
 
 
