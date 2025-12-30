@@ -11,7 +11,6 @@ It demonstrates scalable test execution, tagging (`@smoke`, `@regression`).
 - Dockerized environment for consistent runs
 - Tag-based test execution (`@smoke`, `@regression`)
 - Parallel container runs with shared results
-- Merged HTML reports with screenshots & videos
 
 ---
 
