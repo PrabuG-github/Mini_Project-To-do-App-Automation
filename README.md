@@ -10,7 +10,7 @@ It demonstrates scalable test execution, tagging (`@smoke`, `@regression`).
 - Playwright test automation for To‑do App
 - Dockerized environment for consistent runs
 - Tag-based test execution (`@smoke`, `@regression`)
-- Parallel container runs with shared results
+- Created testdata similar to examples in cucumber
 
 ---
 
