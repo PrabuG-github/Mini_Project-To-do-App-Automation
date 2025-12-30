@@ -25,7 +25,7 @@ It demonstrates scalable test execution, tagging (`@smoke`, `@regression`).
 
 ## 📂 Project Structure
 
-Mini_Project-To-do-App-Automation/
+```Mini_Project-To-do-App-Automation/
 ├── tests/                # Playwright test specs
 ├── playwright.config.ts  # Playwright configuration
 ├── Dockerfile            # Docker image definition
@@ -33,6 +33,7 @@ Mini_Project-To-do-App-Automation/
 ├── results/              # JSON reports
 ├── test-results/         # Screenshots & videos
 └── playwright-report/    # HTML report
+```
 
 ---
 
